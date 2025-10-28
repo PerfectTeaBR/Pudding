@@ -1,0 +1,7 @@
+Eu sei que isso não é um arquivo de teste, porém a Pudding Docs informa que deve ser feito o uso de docs e não para qualquer coisa, então isso é uma Doc em um arquivo TXT!
+
+Doc: Pudding PerfectTea
+Informações sobre o projeto:
+
+PerfectTea ™ Todos os Direitos Reservados
+É Proibido a alteração nesta Doc e no código, este repositório é apenas para mostrar uma versão de teste de dois projetos, um vai para a versão de Testes do Discord(Discord Canary) e este é uma Doc, obrigado por ler!
